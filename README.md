@@ -8,6 +8,10 @@ Hello World!!
 2. _bounce can be an integer variable, beause there will never be a fraction or a bounce, and you don't have to store words or booleans to track the number of bounces.
 3. The mistake in step 4 was that the swmi-colo was missing.
 
+
+### W3
+The way setLightDimness wold be coded would depend on what the variables mean. You should get the sanity level as an integer and set the make the room brighter when the payer is more sane and darker as the plater spirals depending on what 0 and 100% sanity means for the game.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
