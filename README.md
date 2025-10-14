@@ -10,7 +10,9 @@ Hello World!!
 
 
 ### W3
-The way setLightDimness wold be coded would depend on what the variables mean. You should get the sanity level as an integer and set the make the room brighter when the payer is more sane and darker as the plater spirals depending on what 0 and 100% sanity means for the game. since you're only changing a parameter, no output is needed so the output type would be void
+The way setLightDimness wold be coded would depend on what the variables mean. You should get the sanity level as an integer and set the make the room brighter when the payer is more sane and darker as the plater spirals depending on what 0 and 100% sanity means for the game. since you're only changing a parameter, no output is needed so the output type would be void.
+
+Metaphor for classes and components were skinwalkers. the skinwalker is the component and the skin is the class, since differnet classes have diffenret methods which change the behavior.
 
 ## Open-Source Assets
 ### W1
