@@ -14,6 +14,15 @@ The way setLightDimness wold be coded would depend on what the variables mean. Y
 
 Metaphor for classes and components were skinwalkers. the skinwalker is the component and the skin is the class, since differnet classes have diffenret methods which change the behavior.
 
+### W4
+private bool _isGrounded = true; creates a private boolean variable named _isGrounded, which is initialzied to true, and may be changed later.
+
+if (Input.GetKeyDown(KeyCode.Space) && _isGrounded) checks if both the space bar is pressed and if the _isGroudned variable is true. It will process as True only if both conditions are true, otherwise it will be false.
+
+_isGrounded = false; sets the _isGrounded avariable to false.
+
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
