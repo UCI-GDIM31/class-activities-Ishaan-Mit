@@ -21,6 +21,8 @@ if (Input.GetKeyDown(KeyCode.Space) && _isGrounded) checks if both the space bar
 
 _isGrounded = false; sets the _isGrounded avariable to false.
 
+Everything needed a collider, but the cat and ball needed to be rigid bodies since they had to be able to be affected by phyics, and the goal was a trigger since it was onle scanning for the ball.
+
 
 
 ## Open-Source Assets

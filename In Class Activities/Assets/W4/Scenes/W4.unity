@@ -7493,7 +7493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d99774276e3f43b192a53df5fde03de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BounceOffWall
-  _rigidBody: {fileID: 0}
+  _rigidBody: {fileID: 6397291155275392800}
   _bounceForce: 6
 --- !u!4 &8115783459852817865
 Transform:
