@@ -10,8 +10,6 @@ public class DeerW5 : MonoBehaviour
 {
     [SerializeField] private Transform _destination;
 
-    private int _moveSpeed = 2;
-
     private void Start()
     {
         NavMeshAgent agent = GetComponent<NavMeshAgent>();
