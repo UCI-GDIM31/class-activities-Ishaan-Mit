@@ -24,7 +24,7 @@ _isGrounded = false; sets the _isGrounded avariable to false.
 Everything needed a collider, but the cat and ball needed to be rigid bodies since they had to be able to be affected by phyics, and the goal was a trigger since it was onle scanning for the ball.
 
 ### W5
-Are there different ways to manipulate variables with vectors? THere are
+Are there different ways to manipulate variables with vectors? There are
 
 What member variable(s) does this class need?
 
@@ -32,6 +32,12 @@ What method(s) does this class need? Should it be something that Unity provides 
 at the start it should find the target's location, and then move towards it. THis can be achieved through the Start and Update funcitons
 What should the method(s) do?
 
+### W6
+What member variables does this class need? speed, cat transform, chasing
+What methods does this class need? Should it be something that Unity provides (like Start(), Update(), or a collision method), or one you write? update, methods to start and stop the chasing
+What should the method(s) do? start and stop shuld make the chasing variable true and false respectivly. update should move the bat closer to the player every frame.
+
+https://docs.google.com/document/d/1lmiUEvktjmcBWJmVSkGWRt156K5VDO01tHGCc-V7qak/edit?tab=t.0
 
 ## Open-Source Assets
 ### W1
