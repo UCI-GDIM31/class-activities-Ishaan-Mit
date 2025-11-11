@@ -39,6 +39,10 @@ What should the method(s) do? start and stop shuld make the chasing variable tru
 
 https://docs.google.com/document/d/1lmiUEvktjmcBWJmVSkGWRt156K5VDO01tHGCc-V7qak/edit?tab=t.0
 
+### W7
+https://docs.google.com/document/d/1sbxFwadVoEb2vnPq9DS7bAOivA7REpEKIh1f_uew8pQ/edit?usp=sharing
+we need to call the transform's rotate and tralsate methods to change the muskrat's roationa nd position respectivly. 
+in Step 2, the mistake was that it was manually changing the position, instead of calling the translate function.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
